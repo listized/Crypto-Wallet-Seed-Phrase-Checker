@@ -1,4 +1,4 @@
-# Crypto Wallet Seed-Phrase Checker
+# Crypto Wallet Seed Phrase Checker
 A Windows desktop app that lets you check cryptocurrency balances across multiple blockchain networks. Supports Ethereum, Polygon, and BSC networks.
 
 ### Seed Phrase Checker v.1.1 / https://t.me/seedphrasecheckerr
